@@ -1,4 +1,4 @@
-![Profile](/uploads/profile.jpg "Profile")<!-- TITLE: Test Page -->
+<!-- TITLE: Test Page -->
 <!-- SUBTITLE: A quick summary of Test Page -->
 
 # this is a test page
