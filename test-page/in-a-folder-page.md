@@ -3,4 +3,4 @@
 
 # Header
 
-<p>Can I just do HTML <b>here</b></p>
+<p>Can I just do HTML <i>here</i></p>
